@@ -1,0 +1,13 @@
+sender,recipients,subject,body,active
+sender1@gmail.com,rec11@gmail.com;rec12@gmail.com,Subject1,Body1,1
+sender2@gmail.com,rec2@gmail.com,Subject2,Body2,1
+sender3@gmail.com,rec3@gmail.com,Subject3,Body3,0
+sender4@gmail.com,rec41@gmail.com;rec42@gmail.com;rec43@gmail.com,Subject4,Body4,1
+sender5@gmail.com,rec5@gmail.com,Subject5,Body5,1
+sender6@gmail.com,rec6@gmail.com,Subject6,Body6,1
+sender7@gmail.com,rec7@gmail.com,Subject7,Body7,1
+sender8@gmail.com,rec8@gmail.com,Subject8,Body8,0
+sender9@gmail.com,rec9@gmail.com,Subject9,Body9,1
+sender10@gmail.com,rec10@gmail.com,Subject10,Body10,0
+sender11@gmail.com,rec11@gmail.com,Subject11,Body11,1
+sender12@gmail.com,rec12@gmail.com,Subject12,Body12,1
